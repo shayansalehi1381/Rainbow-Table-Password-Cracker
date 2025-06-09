@@ -14,4 +14,3 @@ This Python project implements a brute-force rainbow table technique to recover 
 - csv
 - OrderedDict (collections)
 
-## Sample Input (input.csv)
